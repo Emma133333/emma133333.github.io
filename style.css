@@ -1,1 +1,7 @@
-body{font-family:Arial;background:#f5f7fb;padding:20px;} .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;} .card{background:#fff;padding:15px;border-radius:12px;} img{max-width:45%;margin:5px;} table{width:100%;background:#fff;}
+
+body { font-family: Arial; background:#f5f7fb; padding:20px; }
+.cards { display:flex; gap:20px; flex-wrap:wrap; }
+.card { background:white; padding:10px; border-radius:10px; width:220px; }
+.card img { width:100%; border-radius:10px; }
+table { width:100%; background:white; border-collapse:collapse; margin-top:20px;}
+td,th { border:1px solid #ccc; padding:10px; }
