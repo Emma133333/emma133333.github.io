@@ -1,0 +1,17 @@
+
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f5f7fb;color:#333}
+header{background:#2f5fd0;color:#fff;padding:20px;text-align:center}
+section{background:#fff;margin:20px;padding:20px;border-radius:12px}
+h1,h2{color:#2f5fd0}
+a{color:#2f5fd0;text-decoration:none}
+footer{text-align:center;padding:20px;color:#666}
+
+
+/* === UI tweaks per request === */
+/* Back-to-home link color */
+a.back-home, a { color:#6b4eff; }
+a.back-home:hover { color:#ff7a18; }
+
+/* Enlarge 'Four Companies' section */
+.section-companies h2 { font-size:28px; }
+.section-companies li { font-size:20px; }
