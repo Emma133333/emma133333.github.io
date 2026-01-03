@@ -1,52 +1,8 @@
 
-body {
-  margin: 0;
-  font-family: Arial, "Microsoft JhengHei", sans-serif;
-  background: #f4f6fb;
-  line-height: 1.8;
-}
-
-.header {
-  background: #2f5fd7;
-  color: white;
-  text-align: center;
-  padding: 40px 20px;
-}
-
-.hero {
-  text-align: center;
-  padding: 40px 20px;
-}
-
-.company {
-  background: white;
-  margin: 30px auto;
-  padding: 20px;
-  width: 90%;
-  max-width: 900px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
-.company img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-.company h2 {
-  margin-top: 20px;
-}
-
-.company a {
-  display: inline-block;
-  margin-top: 10px;
-  color: #2f5fd7;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-  color: #666;
-}
+body{font-family:Arial,'Noto Sans TC',sans-serif;text-align:center;line-height:1.8;margin:0}
+header{background:#2f5fd0;color:#fff;padding:30px}
+section{max-width:900px;margin:40px auto;padding:0 20px}
+img.company{width:100%;max-width:700px;margin:20px auto;display:block}
+table{width:100%;border-collapse:collapse}
+th,td{border:1px solid #ccc;padding:10px}
+footer{margin:40px;color:#777}
